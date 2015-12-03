@@ -5,7 +5,7 @@ module.exports = {
     name: 'Bjorn',
     age: 28,
     has_parent: null,
-    is_leaf: false
+    is_leaf: false,
     has_children: true,
     children: [{
         name: 'Manny',
